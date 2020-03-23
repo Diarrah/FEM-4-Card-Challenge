@@ -24,7 +24,7 @@ body {
 }
 
 .total-container { 
-    padding: 30px;
+    padding: 100px 30px 30px;
     background-color: var(--very-light-gray);
     max-width: 2000px;
     margin: auto;
